@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter/src/widgets/framework.dart';
 
 class arithmeticoutput extends StatefulWidget {
   const arithmeticoutput({super.key});
@@ -28,6 +27,6 @@ class _arithmeticoutputState extends State<arithmeticoutput> {
       ),
     );
 
-    return Container();
+    
   }
 }
