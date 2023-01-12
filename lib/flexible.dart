@@ -23,7 +23,7 @@ class _FlexibleScreenState extends State<FlexibleScreen> {
           Expanded(
             child: Container(
               height: 400,
-              color: Colors.amber,
+              color: Color.fromARGB(255, 198, 159, 42),
             ),
           ),
           Flexible(
